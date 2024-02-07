@@ -1,0 +1,21 @@
+img{
+    width: 250px;
+    height: 60px;
+}
+body{ 
+    background-color: burlywood;
+}
+h4{
+    color: blue;
+    text-transform: capitalize;
+}
+fieldset{
+    width: 200px;
+}
+table ,th,td{
+    border: 1px blue solid;
+    border-collapse: collapse;
+}
+li{
+  color: blue;
+}
